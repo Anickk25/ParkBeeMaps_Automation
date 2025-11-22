@@ -1,6 +1,6 @@
 # ParkBee UAT – Cypress Automation Reg Tests
 
-Automated smoke tests for ParkBee UAT environment[](https://uat.parkbee.com)
+Automated tests for ParkBee UAT environment[](https://uat.parkbee.com)
 
 
 ## Scenarios Covered
@@ -25,7 +25,7 @@ cypress.config.js → Cypress configuration
 
 - Cypress 13+
 - JavaScript
-- GitHub Actions ready (just add workflow if needed)
+- GitHub Actions ready 
 
 ## How to Run Locally
 
